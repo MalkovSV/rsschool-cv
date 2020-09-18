@@ -1,0 +1,10 @@
+div {
+    text-align: center;
+}
+.foto {
+    width: 140px;
+    height: 140px;
+}
+ul {
+    list-style-position: inside;
+ }
